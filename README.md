@@ -5,8 +5,8 @@
 ![license](https://img.shields.io/badge/license-MIT-black)
 ![research](https://img.shields.io/badge/field-física_quântica_|_consciência_|_informação-purple)
 
-**Autor:** Seu Nome  
-**Instituição:** —  
+**Autor:** Thiago Silva de Oliveira  
+**Instituição:** Apenas um pensamento  
 **Palavras-chave:** consciência; física quântica; informação; temporalidade; telemetria cognitiva; relatividade.
 
 ---
